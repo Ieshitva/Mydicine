@@ -1,0 +1,13 @@
+.text-centre {
+    text-align:center;
+}
+.text-left {
+    text-align:left;
+}
+.text-justify {
+    text-align:justify;
+}
+.top20{
+     margin-top:20px;
+     font-weight: 100;
+}
